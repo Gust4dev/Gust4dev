@@ -4,4 +4,6 @@
 + Python 
 + C++
 + C#
-+ Html/css
++ Javascript
++ Typescript
+  
