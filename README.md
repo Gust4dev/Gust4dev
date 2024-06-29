@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Gust4dev/Gust4dev/blob/main/code.png)
 
-# Hello, I'm Gusta <img src="https://em-content.zobj.net/source/google/387/smiling-face-with-sunglasses_1f60e.png" height="35" width="35">
+# Hello, I'm Gusta
 
 ### About Me
 - Name: Gustavo Gomes
@@ -37,7 +37,7 @@
 
 ---
 
-# Olá, Sou o Gusta <img src="https://em-content.zobj.net/source/google/387/smiling-face-with-sunglasses_1f60e.png" height="35" width="35">
+# Olá, Sou o Gusta
 
 ### Sobre Mim
 - Nome: Gustavo Gomes
