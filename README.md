@@ -1,4 +1,4 @@
-![Banner](https://github.com/Gust4dev/Gust4dev/blob/main/code.png)
+![Banner](https://github.com/Gust4dev/Gust4dev/blob/main/code2.png)
 
 # Hello, I'm Gusta
 
